@@ -1,2 +1,4 @@
 *.log
 *.txt
+*.python-version
+*.ipynb_checkpoints
